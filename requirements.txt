@@ -1,0 +1,4 @@
+requests==2.13.0
+gevent==1.2.1
+PyQt4==4.11.4
+beautifulsoup4==4.6.0
