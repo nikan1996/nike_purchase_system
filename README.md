@@ -5,9 +5,12 @@ A software that can automatic login and purchase the limit edition products in n
 nike_login目录提供自动注册nike账号的功能
 
 
-
+# Develop
+```
+develop environment: python version >= 3.5.2
+```
 # Run
 ```
 pip3 install -r requirements.txt
-python mainwindow.py
+python3 mainwindow.py
 ```
