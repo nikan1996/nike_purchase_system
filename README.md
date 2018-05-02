@@ -8,6 +8,6 @@ nike_login目录提供自动注册nike账号的功能
 
 # Run
 ```
-pip install requirements.txt
+pip3 install -r requirements.txt
 python mainwindow.py
 ```
